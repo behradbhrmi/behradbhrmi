@@ -27,6 +27,9 @@
     <img src="svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>  
  
+   <a href="https://t.me/behradbhrmi/" target="_blank">
+    <img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>  
  
 
 <br />
