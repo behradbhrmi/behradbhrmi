@@ -22,6 +22,11 @@
   <a href="https://www.instagram.com/behradbhrmi/" target="_blank">
     <img src="svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
+  
+   <a href="https://www.twitter.com/behradbhrmi/" target="_blank">
+    <img src="svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
  
 
 <br />
