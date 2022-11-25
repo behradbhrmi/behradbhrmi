@@ -27,7 +27,7 @@
     <img src="svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>  
  
-   <a href="https://t.me/behradbhrmi/" target="_blank">
+   <a href="https://t.me/behradbahrami/" target="_blank">
     <img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>  
  
@@ -36,7 +36,7 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
 
 <p align="center"> 
   Visitor count<br>
