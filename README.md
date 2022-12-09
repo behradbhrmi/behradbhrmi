@@ -19,13 +19,13 @@
     <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
    
-  <a href="https://www.instagram.com/behradbhrmi/" target="_blank">
+<!--   <a href="https://www.instagram.com/behradbhrmi/" target="_blank">
     <img src="svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
+
    <a href="https://www.twitter.com/behradbhrmi/" target="_blank">
     <img src="svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   -->
  
    <a href="https://t.me/behradbahrami/" target="_blank">
     <img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
