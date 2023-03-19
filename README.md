@@ -15,7 +15,7 @@
 🌱 
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.
 
-  <a href="https://www.linkedin.com/in/behradbhrmi/" target="_blank">
+  <a href="https://www.linkedin.com/in/behradbahrami/" target="_blank">
     <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
    
