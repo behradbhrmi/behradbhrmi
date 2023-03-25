@@ -3,7 +3,7 @@
 ### Hi there
 
  <strong>
-  🔭  My Professional skills
+  🔭  My Skills
   </strong>
 
 <p align="center"> 
