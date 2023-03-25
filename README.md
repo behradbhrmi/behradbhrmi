@@ -34,6 +34,31 @@
 
 <br />
 
+-----
+
+
+ <br>
+ <br>
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
+ 
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
+  
+ 
+ 
+ 
+----------------
+
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
+
+
+
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 <!-- <a href=#><img src="contributions.svg"></a> -->
