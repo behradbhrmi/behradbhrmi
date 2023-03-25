@@ -8,7 +8,7 @@
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=python,django,docker,&theme=dark)](https://github.com/behradbhrmi)
+[![My Skills](https://skillicons.dev/icons?i=python,django,docker,git,github&theme=dark)](https://github.com/behradbhrmi)
   
 </p>
 
