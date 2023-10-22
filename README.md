@@ -10,7 +10,7 @@
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,django,docker,git&theme=dark)](https://github.com/behradbhrmi)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,django,docker,git&theme=dark)](https://github.com/behradbhrmi)
   
 </p>
 
