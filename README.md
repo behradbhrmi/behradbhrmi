@@ -29,7 +29,7 @@
     <img alt=".Net" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
 </div><br>
 <p align="center">
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+    <img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 </p>
 <p align="center">
     <img src=https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif>
