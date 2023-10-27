@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Behrad%20Bahrami%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Back-End%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Behrad%20Bahrami%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Back-End%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff">
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
+
 <p align="center" >
     <h1 align="center">BehradBhrmi</h1>
-    <p align="center"><a align="center"</p>
 </p>
 
-<br>
 <p align="center" >
     <img id="preview" src="https://komarev.com/ghpvc/?username=behradbhrmi&color=brightgreen">
 </p>
@@ -20,7 +19,7 @@
   <a target="_blank" href="https://www.instagram.com/behradbhrmi/"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/tyqyBbq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<hr>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
  <h3 justify="left">👨‍💻 Programming Languages </h3>
 <div><br>
