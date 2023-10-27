@@ -21,16 +21,18 @@
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
- <h3 justify="left">👨‍💻 Programming Languages </h3>
-<div><br>
-  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt=".Net" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+<div align="center"><br>
+    <h3 justify="left">👨‍💻 Programming Languages👨‍💻</h3>
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt=".Net" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
 </div><br>
 <p align="center">
-  <img src=https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif>
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+</p>
+<p align="center">
+    <img src=https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif>
 </p>
 
 
